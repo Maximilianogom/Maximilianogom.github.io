@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Dis Is My Bio </title>
+    </head>
+    <body>
+        <h1>HEY EVERYONE</h1>
+        <h2>Maximiliano Gomez's Website</h2>
+        <a herf="mailto:maximumgom@gmail.com">Click Here to Email Me!</a>
+    <hr>
+        <h3>Fun Stuff</h3>
+        <a herf="https://kotori.me/mario/">Click Here For a Classic</a>
+        <a herf="https://www.granadahigh.com">School Stuff</a>
+    </body>
+</html>
